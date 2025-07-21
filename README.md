@@ -2,7 +2,7 @@
 This project uses multiple linear regression to predict sales based on advertising media. 
 
 # Tech Stack
--Python, Panads, Seaborn, Scikit-learn, matplotlib 
+-Python, Panads, Seaborn, Scikit-learn, Streamlit
 
 # Model Used
 -Multiple Linear Regression
